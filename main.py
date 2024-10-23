@@ -1,3 +1,4 @@
+# Anay Patel
 def encode(password):
     encoded_password = ''
     password_list = list(password)
